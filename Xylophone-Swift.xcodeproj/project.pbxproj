@@ -17,9 +17,9 @@
 		B072CC1D29CA4470007F150D /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = B072CC1629CA4470007F150D /* G.wav */; };
 		B072CC1E29CA4470007F150D /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = B072CC1729CA4470007F150D /* E.wav */; };
 		B072CC1F29CA4470007F150D /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = B072CC1829CA4470007F150D /* D.wav */; };
-		B072CC2129CA4489007F150D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B072CC2029CA4489007F150D /* Assets.xcassets */; };
 		B072CC2329CA44A4007F150D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B072CC2229CA44A4007F150D /* LaunchScreen.storyboard */; };
 		B072CC2529CA44BD007F150D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B072CC2429CA44BD007F150D /* Main.storyboard */; };
+		B085BE8429CA4DE60080BF95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B085BE8329CA4DE60080BF95 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,10 +35,10 @@
 		B072CC1629CA4470007F150D /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
 		B072CC1729CA4470007F150D /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
 		B072CC1829CA4470007F150D /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
-		B072CC2029CA4489007F150D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Downloads/Xylophone-iOS13-master 22.54.38/Xylophone/Assets.xcassets"; sourceTree = "<group>"; };
 		B072CC2229CA44A4007F150D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B072CC2429CA44BD007F150D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		B072CC2629CA48CB007F150D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B085BE8329CA4DE60080BF95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +76,8 @@
 				B072CBFD29CA4439007F150D /* AppDelegate.swift */,
 				B072CBFF29CA4439007F150D /* SceneDelegate.swift */,
 				B072CC0129CA4439007F150D /* ViewController.swift */,
-				B072CC2029CA4489007F150D /* Assets.xcassets */,
 				B072CC0B29CA443B007F150D /* Info.plist */,
+				B085BE8329CA4DE60080BF95 /* Assets.xcassets */,
 				B072CC2229CA44A4007F150D /* LaunchScreen.storyboard */,
 				B072CC2429CA44BD007F150D /* Main.storyboard */,
 			);
@@ -157,8 +157,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B072CC1D29CA4470007F150D /* G.wav in Resources */,
-				B072CC2129CA4489007F150D /* Assets.xcassets in Resources */,
 				B072CC1C29CA4470007F150D /* F.wav in Resources */,
+				B085BE8429CA4DE60080BF95 /* Assets.xcassets in Resources */,
 				B072CC1929CA4470007F150D /* A.wav in Resources */,
 				B072CC1B29CA4470007F150D /* B.wav in Resources */,
 				B072CC2529CA44BD007F150D /* Main.storyboard in Resources */,
