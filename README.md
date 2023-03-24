@@ -63,6 +63,11 @@ In this repository, I will create basic app music app with Swift.
 
 
   - [x] Project Setup
+  - [x] Set Assets & Design
+  - [x] Link Buttons to Each Other
+  - [x] Create Function to Play Sound from Assets
+  - [x] Get Current Buttons ID & Current Text etc
+  - [x] Give Params to Function to get that Audio Assets from Current Button   
   
   
   
