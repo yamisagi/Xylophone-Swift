@@ -55,7 +55,7 @@
 <!--<img src="https://github.com/yamisagi/us/blob/main/assets/product.gif" width="350" height="550"> -->
 
 
-In this repository, I will create basic app music app with Swift.
+In this repository, I will create basic music app with Swift.
 
 
 <!-- ROADMAP -->
@@ -68,7 +68,7 @@ In this repository, I will create basic app music app with Swift.
   - [x] Create Function to Play Sound from Assets
   - [x] Get Current Buttons ID & Current Text etc
   - [x] Give Params to Function to get that Audio Assets from Current Button   
-  - [x] Change Opacity to Half When Pressed and Return it to Normal After Delay
+  - [x] Change Opacity to 0.5 when Pressed and return it to normal after Delay
   - [x] Project Done
   
   
