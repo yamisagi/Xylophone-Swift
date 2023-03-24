@@ -68,7 +68,8 @@ In this repository, I will create basic app music app with Swift.
   - [x] Create Function to Play Sound from Assets
   - [x] Get Current Buttons ID & Current Text etc
   - [x] Give Params to Function to get that Audio Assets from Current Button   
-  
+  - [x] Change Opacity to Half When Pressed and Return it to Normal After Delay
+  - [x] Project Done
   
   
 <p align="center">(Still working on it...)</p>
